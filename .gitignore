@@ -1,15 +1,7 @@
-# Python virtual environment
-venv/
-__pycache__/
-*.pyc
-
-# Data files
+# .gitignore
 data/
 *.csv
 *.ipynb_checkpoints/
-
-# Jupyter notebook checkpoints
-.ipynb_checkpoints/
-
-# System files
-.DS_Store
+venv/
+__pycache__/
+*.pyc
